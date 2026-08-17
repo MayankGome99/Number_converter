@@ -23,4 +23,5 @@ A modular, console-based Java application that converts numbers into English wor
 ## How to Run
 
 1. Clone the repository:
-   ```bash git clone https://github.com/MayankGome99/Number_converter.git
+   ```bash
+    git clone https://github.com/MayankGome99/Number_converter.git
